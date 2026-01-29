@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kaua-vieira-dev/Kaua-vieira-dev/output/snake.svg" alt="Snake animation" />
 
 ###
