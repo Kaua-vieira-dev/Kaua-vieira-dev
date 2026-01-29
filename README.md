@@ -8,13 +8,13 @@
 
 ###
 
-<h4 align="left">But you can call me Nøkk<br>and chat with me here:</h4>
+<br clear="both">
+
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJnZXhwb2VmMzczbmlyMHgydjB1cHo0NWwzYzZocmhtc24yNGxhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJnZXhwb2VmMzczbmlyMHgydjB1cHo0NWwzYzZocmhtc24yNGxhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
+<h4 align="left">But you can call me Nøkk<br>and chat with me here:</h4>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Experience</h2>
+<h3 align="left">Experience</h3>
 
 ###
 
