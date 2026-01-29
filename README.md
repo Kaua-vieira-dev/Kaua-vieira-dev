@@ -2,7 +2,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-vieira-dev.Kaua-vieira-dev&left_color=darkred&right_color=darkgrey"  />
 </div>
 ###
+
 <h1 align="left">Hello! I'm Kauã 🐰</h1>
+
 ###
 
 <p align="left">But you can call me Nøkk<br>and chat with me here:</p>
