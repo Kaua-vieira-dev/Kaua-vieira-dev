@@ -10,7 +10,7 @@
 <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJnZXhwb2VmMzczbmlyMHgydjB1cHo0NWwzYzZocmhtc24yNGxhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" />
 
 <p align="left">
-  I am starting this journey now, focusing on problem solving using <b>C and C++</b>, computer networks, databases, and data structures. I am passionate about technology and constant learning. Currently focused on college and an AWS course.
+  I am starting this journey now. I am in my second year at the <b>Pontifical Catholic University of Goiás</b> (PUC-GO), focusing on problem solving using <b>C and C++</b>, computer networks, databases, and data structures. I am passionate about technology and constant learning. Currently focused on college and an AWS course.
 </p>
 
 ### My Techs and Skills
