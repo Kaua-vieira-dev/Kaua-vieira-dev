@@ -4,6 +4,8 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">Hello! I'm Kauã 🐰</h1>
 
 ###
@@ -14,7 +16,7 @@
 
 ###
 
-<h4 align="left">But you can call me Nøkk<br>and chat with me here:</h4>
+<p align="left">But you can call me Nøkk<br>and chat with me here:</p>
 
 ###
 
@@ -26,7 +28,7 @@
 
 ###
 
-<h4 align="left">I am starting this journey now, focusing more on problem solving using C and C++, computer networks, databases, and data structures. I am passionate about technology and learning more. Currently focused on college and an AWS course.</h4>
+<p align="left">I am starting this journey now, focusing more on problem solving using C and C++, computer networks, databases, and data structures. I am passionate about technology and learning more. Currently focused on college and an AWS course.</p>
 
 ###
 
@@ -42,7 +44,7 @@
 
 ###
 
-<h4 align="left">Under Construction...</h4>
+<p align="left">Under Construction...</p>
 
 ###
 
