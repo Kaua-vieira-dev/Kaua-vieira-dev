@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">But you can call me Nøkk<br>and chat with me here:</p>
+<p align="left">But you can call me Ash<br>and chat with me here:</p>
 
 ###
 
