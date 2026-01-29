@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-vieira-dev.Kaua-vieira-dev&left_color=darkred&right_color=darkgrey"  />
 </div>
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">But you can call me Ash<br>and chat with me here:</p>
+<p align="left">But you can call me Nøkk<br>and chat with me here:</p>
 
 ###
 
@@ -48,6 +48,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kaua-vieira-dev/Kaua-vieira-dev/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaua-vieira-dev/Kaua-vieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaua-vieira-dev/Kaua-vieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaua-vieira-dev/Kaua-vieira-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
