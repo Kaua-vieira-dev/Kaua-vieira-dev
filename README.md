@@ -8,13 +8,13 @@
 
 ###
 
-<p align="left">But you can call me Nøkk<br>and chat with me here:</p>
+<h4 align="left">But you can call me Nøkk<br>and chat with me here:</h4>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJnZXhwb2VmMzczbmlyMHgydjB1cHo0NWwzYzZocmhtc24yNGxhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
+<img align="right" height="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJnZXhwb2VmMzczbmlyMHgydjB1cHo0NWwzYzZocmhtc24yNGxhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif"  />
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am starting this journey now, focusing more on problem solving using C and C++, computer networks, databases, and data structures. I am passionate about technology and learning more. Currently focused on college and an AWS course.</p>
+<h4 align="left">I am starting this journey now, focusing more on problem solving using C and C++, computer networks, databases, and data structures. I am passionate about technology and learning more. Currently focused on college and an AWS course.</h4>
 
 ###
 
@@ -38,11 +38,11 @@
 
 ###
 
-<h3 align="left">Experience</h3>
+<h2 align="left">Experience</h2>
 
 ###
 
-<p align="left">Under Construction...</p>
+<h4 align="left">Under Construction...</h4>
 
 ###
 
