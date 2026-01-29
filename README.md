@@ -1,13 +1,8 @@
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaua-vieira-dev.Kaua-vieira-dev&left_color=darkred&right_color=darkgrey"  />
 </div>
-
 ###
-
-<br clear="both">
-
 <h1 align="left">Hello! I'm Kauã 🐰</h1>
-
 ###
 
 <p align="left">But you can call me Nøkk<br>and chat with me here:</p>
@@ -21,7 +16,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/kauã-vieira-porto-1a0bb0352" target="_blank">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-vieira-porto-1a0bb0352/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
